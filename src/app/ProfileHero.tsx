@@ -51,7 +51,7 @@ const ProfileHero = () => {
                     <Image
                         width={800}
                         height={800}
-                        src="/images/profile/profile.jpg"
+                        src="/images/profile/profile_pic.jpg"
                         alt="Teja Neteti"
                         className="w-full h-full object-cover rounded-full   border-white profile_animation"
                     />
