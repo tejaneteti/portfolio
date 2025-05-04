@@ -5,9 +5,9 @@ import { social_urls } from '../constants';
 
 function Contact() {
 
-    const publicKey = process.env.PUBLIC_KEY;
-    const serviceID = process.env.SERVICE_ID;
-    const templateID = process.env.TEMPLATE_ID;
+    const publicKey = process.env.PUBLIC_KEY!;
+    const serviceID = process.env.SERVICE_ID!;
+    const templateID = process.env.TEMPLATE_ID!;
 
     // service id  service_7ejvbbi
     // console.log(s  +" " + g + " " + t);
