@@ -26,6 +26,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta name="google-site-verification" content="AaykmQw7v8Unv_bPXP76-43QPR5UOP0_7Ek-xkSg7N8" />
+      </head>
       <body
         className={`${poppins.variable} ${geistMono.variable} antialiased`}
       >
