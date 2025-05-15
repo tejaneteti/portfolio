@@ -25,7 +25,7 @@ export default function Home() {
             <div className="timeline-item">
               <div className="timeline-content">
                 <h3>CloudOne AI Robotics Pvt Ltd</h3>
-                <p className="timeline-date">June 2024 - Present</p>
+                <p className="timeline-date">Nov 2023 - Present</p>
                 <p className="position">UAV System Engineer</p>
                 <ul className="experience-list">
                   <li>Worked on Mars Copter project with ISRO's VSSC for autonomous flight in GPS-denied environments</li>
@@ -38,7 +38,7 @@ export default function Home() {
                 </ul>
               </div>
             </div>
-            <div className="timeline-item">
+            {/* <div className="timeline-item">
               <div className="timeline-content">
                 <h3>Autosky Aerospace</h3>
                 <p className="timeline-date">May 2024 - June 2024</p>
@@ -49,7 +49,7 @@ export default function Home() {
                   <li>Trained YOLOv5 models for drone-based object detection</li>
                 </ul>
               </div>
-            </div>
+            </div> */}
             <div className="timeline-item">
               <div className="timeline-content">
                 <h3>Saif Seas Automation</h3>
